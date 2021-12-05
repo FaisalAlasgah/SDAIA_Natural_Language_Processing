@@ -15,6 +15,7 @@ Our goal for this NLP Classification Model is to predict the IMDB reviews if it 
 </p>
 
 # Documents
+- [Proposal](./doc/Proposal.pdf)
 - [Presentation](./doc/Presentation.pdf)
 - [Report](./doc/Report.pdf)
 
