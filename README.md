@@ -11,7 +11,7 @@
   <h3 align="center">IMDB Reviews NLP Classification</h3>
 
   <p align="center">
-Our goal for this NLP Classification Model is to predict the IMDB reviews if it was positive ornegative as our dependent is the actual review and as our independent value is the sentimentwhich is positive or negative. This model will help us identify which review is good or bad even if the rating is high.</p>
+Our goal for this NLP Classification Model is to predict the IMDB reviews if it was positive or negative as our dependent is the actual review and as our independent value is the sentiment which is positive or negative. This model will help us identify which review is good or bad even if the rating is high.</p>
 </p>
 
 # Documents
